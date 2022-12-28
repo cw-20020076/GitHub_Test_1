@@ -1,0 +1,6 @@
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/main.c:609:6:StartDefaultTask	8	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/main.c:199:6:SystemClock_Config	120	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/main.c:257:6:PeriphCommonClock_Config	192	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/main.c:100:5:main	136	static,ignoring_inline_asm
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/main.c:693:6:HAL_TIM_PeriodElapsedCallback	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/main.c:710:6:Error_Handler	0	static

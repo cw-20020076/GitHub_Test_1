@@ -1,0 +1,4 @@
+../../TouchGFX/target/STM32TouchController.hpp:34:7:STM32TouchController::~STM32TouchController()	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/target/STM32TouchController.cpp:26:6:virtual void STM32TouchController::init()	24	static
+../../TouchGFX/target/STM32TouchController.hpp:34:7:virtual STM32TouchController::~STM32TouchController()	8	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/target/STM32TouchController.cpp:37:6:virtual bool STM32TouchController::sampleTouch(int32_t&, int32_t&)	32	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/screen15_screen/Screen15Presenter.hpp:28:13:Screen15Presenter::~Screen15Presenter()	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/gui/src/screen15_screen/Screen15Presenter.cpp:10:6:virtual void Screen15Presenter::activate()	0	static
+../../TouchGFX/gui/include/gui/screen15_screen/Screen15Presenter.hpp:28:13:virtual Screen15Presenter::~Screen15Presenter()	8	static
+../../TouchGFX/gui/include/gui/screen15_screen/Screen15Presenter.hpp:28:13:virtual void* Screen15Presenter::_ZThn4_N17Screen15PresenterD1Ev()	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/gui/src/screen15_screen/Screen15Presenter.cpp:4:1:Screen15Presenter::Screen15Presenter(Screen15View&)	8	static

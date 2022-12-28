@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/screen12_screen/Screen12View.hpp:11:13:Screen12View::~Screen12View()	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/gui/src/screen12_screen/Screen12View.cpp:13:6:virtual void Screen12View::tearDownScreen()	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/gui/src/screen12_screen/Screen12View.cpp:8:6:virtual void Screen12View::setupScreen()	0	static
+../../TouchGFX/gui/include/gui/screen12_screen/Screen12View.hpp:11:13:virtual Screen12View::~Screen12View()	8	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/TouchGFX/gui/src/screen12_screen/Screen12View.cpp:3:1:Screen12View::Screen12View()	8	static

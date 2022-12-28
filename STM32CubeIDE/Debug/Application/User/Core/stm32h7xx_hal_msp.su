@@ -1,0 +1,9 @@
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:64:6:HAL_MspInit	8	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:87:6:HAL_CRC_MspInit	8	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:109:6:HAL_CRC_MspDeInit	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:131:6:HAL_DMA2D_MspInit	16	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:156:6:HAL_DMA2D_MspDeInit	0	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:181:6:HAL_LTDC_MspInit	256	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:327:6:HAL_LTDC_MspDeInit	8	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:400:6:HAL_OSPI_MspInit	96	static
+D:/02.project/01.advanced_Development/05.Cooker/02.Mockup_STM32F/02.source/01.UX_Design/TwinCooker/Core/Src/stm32h7xx_hal_msp.c:548:6:HAL_OSPI_MspDeInit	8	static
