@@ -46,7 +46,7 @@ void TouchGFX_Task(void *argument)
 {
   // Calling forward to touchgfx_taskEntry in C++ domain
   touchgfx_taskEntry();
-  osDelay(1000);
+  osDelay(2000);
 }
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
