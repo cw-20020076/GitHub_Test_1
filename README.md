@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # GitHub_Test_1
+=======
+
+>>>>>>> origin/dev
 
 ## 프로젝트명   
 - Twin cooker / 사용자 평가 목업
